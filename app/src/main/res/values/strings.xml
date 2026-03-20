@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">N15_Quan_ly_phong_tro</string>
+    <string name="dialog_delete_title">Xóa phòng</string>
+    <string name="dialog_delete_message">Bạn có chắc muốn xóa phòng này không?</string>
+    <string name="dialog_common_no">Không</string>
+    <string name="dialog_common_yes">Có</string>
 </resources>
