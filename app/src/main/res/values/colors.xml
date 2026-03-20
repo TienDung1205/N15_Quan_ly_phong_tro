@@ -2,4 +2,14 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="bgApp">#F7F8FA</color>
+    <color name="orangePrimary">#FF5C01</color>
+    <color name="textPrimary">#111827</color>
+    <color name="textSecondary">#6B7280</color>
+    <color name="greenStatus">#21A366</color>
+    <color name="redStatus">#E53935</color>
+    <color name="red">#E53935</color>
+    <color name="text_gray_primary">#6B7280</color>
+    <color name="text_black_primary">#111827</color>
+    <color name="text_on_primary">#FFFFFFFF</color>
 </resources>
